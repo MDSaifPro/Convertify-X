@@ -42,8 +42,11 @@ Make sure you have the following installed on your machine:
 
 ```bash
 git clone https://github.com/MDSaifPro/Convertify-X.git
-cd your-project
 ```
+**Run The App Locally**
+- unzip the convertify-x.zip file
+- open the terminal inside the extracted folder
+- Follow the Installation :
 
 **Installation**
 
@@ -55,6 +58,11 @@ npm install
 
 Replace the placeholder values with your actual credentials
 
+**Run Build Version**
+
+```bash
+npm run build
+```
 **Running the Project**
 
 ```bash
